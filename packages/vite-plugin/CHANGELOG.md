@@ -1,5 +1,17 @@
 # @likec4/vite-plugin
 
+## 1.57.0
+
+### Patch Changes
+
+- Updated dependencies [[`b7ff481`](https://github.com/likec4/likec4/commit/b7ff48171a0812978857af3f9edbffc6bdfeac9f), [`35ba3f6`](https://github.com/likec4/likec4/commit/35ba3f637e45fc1072646f646b3442b3235cc29d)]:
+  - @likec4/layouts@1.57.0
+  - @likec4/core@1.57.0
+  - @likec4/generators@1.57.0
+  - @likec4/language-services@1.57.0
+  - @likec4/config@1.57.0
+  - @likec4/log@1.57.0
+
 ## 1.56.0
 
 ### Patch Changes

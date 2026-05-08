@@ -1,5 +1,12 @@
 # @likec4/leanix-bridge
 
+## 1.57.0
+
+### Patch Changes
+
+- Updated dependencies [[`35ba3f6`](https://github.com/likec4/likec4/commit/35ba3f637e45fc1072646f646b3442b3235cc29d)]:
+  - @likec4/core@1.57.0
+
 ## 1.56.0
 
 ### Patch Changes
